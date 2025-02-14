@@ -22,7 +22,7 @@ export default function FeaturedSection() {
             Extra Spending Power when you have Rewards Checking through Upgrade.
             </li>
             <div className="inline-flex -space-x-5 cursor-pointer">
-              <button className="border px-7 py-2 rounded-full font-medium border-green-200">
+              <button className="border px-7 py-2 rounded-full font-medium border-green-200 hover:">
                 Get Started
               </button>
               <svg

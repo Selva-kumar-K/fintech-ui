@@ -5,15 +5,12 @@
 @tailwind utilities;
 
 .scrollbar::-webkit-scrollbar {
- 
   direction: ltr;
   width: 8px;
   border-radius: 10px;
   background: rgb(195, 193, 193);
   margin-left: 100px;
-  
 }
-
 
 .scrollbar::-webkit-scrollbar-thumb {
   background: green;
